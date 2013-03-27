@@ -1,1 +1,3 @@
-This is an original copy with added support for refresh footer (e.g. "pull to load more")
+This is pure copy of original EGOTableViewPullRefresh project (many thanks to author).
+
+I've added support for using it as a table footer as well to allow "load more items" scenarios.
